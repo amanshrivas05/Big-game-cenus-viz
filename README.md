@@ -7,5 +7,5 @@ Software used Python and Power BI.
 
 The goal of project to look at the birthplace of each player belong where they from.
 
-The show the data visual and make a dashboard
+The show the data visual and make a dashboard.
 Dashboard  Youtube link https://youtu.be/vL8013WV7jA
