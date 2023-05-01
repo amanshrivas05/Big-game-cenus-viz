@@ -9,3 +9,5 @@ The goal of project to look at the birthplace of each player belong where they f
 
 The show the data visual and make a dashboard.
 Dashboard  Youtube link https://youtu.be/vL8013WV7jA
+
+Project report link https://drive.google.com/file/d/1yt8Q095gyHhP6lJeeIAeGJOWmQrP9xE6/view?usp=sharing 
